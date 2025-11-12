@@ -40,7 +40,7 @@ This repository contains my collection of projects built while following the [Fu
 | Project Name | Roadmap Guide | View Code |
 | :--- | :--- | :--- |
 | Single-Page CV | [View Guide](https://roadmap.sh/projects/single-page-cv) | [View Project](./frontend/single-page-main) |
-| *(Next Project)* | [View Guide]() | [View Project]() |
+| Basic HTML Website | [View Guide](https://roadmap.sh/projects/basic-html-website) | [View Project](./frontend/Basic-HTML-website/) |
 
 <br>
 
